@@ -1,0 +1,9 @@
+img.pug {
+    width: 300px;
+    height: auto;
+}
+
+img.corgi {
+    width: 150px;
+    height: auto;
+}
