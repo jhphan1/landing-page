@@ -1,3 +1,7 @@
+body {
+    font-family: helvetica, sans-serif;
+}
+
 img.pug {
     width: 300px;
     height: auto;
@@ -6,4 +10,86 @@ img.pug {
 img.corgi {
     width: 150px;
     height: auto;
+    border: solid 5px #3882f6;
+    border-radius: 15px;
+}
+
+.header,
+.footer,
+.one {
+    background-color: #1F2937;
+}
+
+.header .logo-text {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.one .card .main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.one .card .secondary-text,
+a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    padding: 8px 32px;
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover {
+    background-color: #0062ff
+}
+
+.two .main-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.three {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.three .quote {
+    font-size: 36px;
+    font-weight: 0;
+}
+
+.three .author {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.four .container {
+    background-color:#3882f6;
+    color: white;
+    margin: 64px 128px;
+    border-radius: 10px;
+    padding: 32px 64px;
+}
+
+.four .main-text {
+    font-weight: bold;
+}
+
+.four button {
+    border: solid 2px white;
 }
