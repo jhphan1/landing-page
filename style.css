@@ -148,7 +148,7 @@ button:hover {
 
 .four .main-text,
 .four .secondary-text {
-    margin: 0;
+    margin: 4px;
 }
 
 .four button {
