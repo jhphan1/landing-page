@@ -7,6 +7,9 @@ I added silly text and dog pictures as placeholders because dogs never fail to m
 See below for photo credits:
 
 Credit to @burst on www.pexels.com for pug.jpg
+
 Credit to @Glenn on www.pexels.com for corgi.jpg
+
 Credit to @freestocks.org on www.pexels.com for french-bulldog.jpg
+
 Credit to @Samson Katt on www.pexels.com for book-dog.jpg
